@@ -73,7 +73,7 @@ For any linear equation **y = mx + b**:
 
 ## 🎨 Technical Details
 
-**Language:** Python 3.x  
+**Language:** Python 3.14.2
 **Libraries:** matplotlib.pyplot  
 **Concepts:** Linear algebra, coordinate geometry, data visualization
 
